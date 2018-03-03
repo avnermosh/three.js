@@ -1,0 +1,57 @@
+#
+# Wavefront material file
+# Converted by Meshlab Group
+#
+
+newmtl material_0
+illum 2
+
+newmtl material_1
+illum 2
+map_Kd room1/wall2/wall_fused.v1.jpg
+
+newmtl material_2
+illum 2
+map_Kd room1/wall3/wall_fused.v1.jpg
+
+newmtl material_3
+illum 2
+map_Kd room1/wall4/wall_fused.v1.jpg
+
+newmtl material_4
+illum 2
+map_Kd room1/wall5/wall_fused.v1.jpg
+
+newmtl material_5
+illum 2
+map_Kd room1/wall6/wall_fused.v1.jpg
+
+newmtl material_6
+illum 2
+map_Kd room1/wall6/wall_fused.v1.jpg
+
+newmtl material_7
+illum 2
+map_Kd room1/wall6/wall_fused.v1.jpg
+
+newmtl material_8
+illum 2
+map_Kd room1/wall6/wall_fused.v1.jpg
+
+# wall11a
+newmtl material_9
+illum 2
+map_Kd room1/wall6/wall_fused.v1.jpg
+
+newmtl material_10
+illum 2
+map_Kd room1/wall1/wall_fused.v1.jpg
+
+# wall11b
+newmtl material_11
+illum 2
+map_Kd room1/wall8/wall_fused.v1.jpg
+
+newmtl material_12
+illum 2
+map_Kd room1/wall7/wall_fused.v1.jpg
